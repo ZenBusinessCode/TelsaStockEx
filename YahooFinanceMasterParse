@@ -1,0 +1,9 @@
+#Definet master parse file 
+import pandas as pd
+
+print(1)
+import TeslaYahooFinance1 as df1
+print(2)
+import TeslaYahooFinance2 as df2 
+print(3)
+import TeslaYahooFinance3 as df3
